@@ -32,7 +32,7 @@ $("button").click(function(){
 
 //Elemnt Manipulation
 
-//$("element").before("<p>NewText</p>");
-//$("element").after("<p>NewText</p>");
-//$("element").prepend("<p>NewText</p>");
-//$("element").append("<p>NewText</p>");
+//$("element").before("<p>NewText</p>");   //Add content before and outside tag
+//$("element").after("<p>NewText</p>");    //Add content after and outside tag
+//$("element").prepend("<p>NewText</p>");  //Add content before and inside tag
+//$("element").append("<p>NewText</p>");   //Add content after and inside tag
