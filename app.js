@@ -29,3 +29,10 @@ $("h1").html("<em>Hey</em>"); //alter all content in a tag
 $("button").click(function(){
   $("h1").css("color","purple");
 });
+
+//Elemnt Manipulation
+
+//$("element").before("<p>NewText</p>");
+//$("element").after("<p>NewText</p>");
+//$("element").prepend("<p>NewText</p>");
+//$("element").append("<p>NewText</p>");
